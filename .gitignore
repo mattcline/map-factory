@@ -3,3 +3,5 @@ output/
 __pycache__/
 *.pyc
 .pytest_cache/
+.claude/
+.DS_STORE
